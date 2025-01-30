@@ -32,7 +32,7 @@ if not os.path.exists('images'):
     os.makedirs('images')
 
 # ---------------------------
-# 🔹 Total Sales by Region
+# Total Sales by Region
 # ---------------------------
 sales_by_region = data.groupby('Region')['Total Sales'].sum().sort_values(ascending=False)
 
@@ -49,7 +49,7 @@ plt.savefig('images/sales_by_region.png')
 plt.show()
 
 # ---------------------------
-# 🔹 Top 5 Best-Selling Products
+# Top 5 Best-Selling Products
 # ---------------------------
 top_products = data.groupby('Product Name')['Total Sales'].sum().sort_values(ascending=False).head(5)
 
@@ -66,7 +66,7 @@ plt.savefig('images/top_products.png')
 plt.show()
 
 # ---------------------------
-# 🔹 Monthly Sales Trends
+# Monthly Sales Trends
 # ---------------------------
 data['Order Date'] = pd.to_datetime(data['Order Date'], errors='coerce')
 data.dropna(subset=['Order Date'], inplace=True)  # Drop invalid dates
