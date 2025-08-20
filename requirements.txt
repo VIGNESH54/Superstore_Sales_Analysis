@@ -6,5 +6,5 @@ matplotlib
 seaborn
 openpyxl
 mlxtend
-networkx
-prophet ; extra index-url may be needed on some systems
+scikit-learn
+prophet
