@@ -1,5 +1,7 @@
 # 📊 Superstore Sales Analysis — Advanced Dashboard  
 
+https://superstore-salesanalysis.streamlit.app/
+
 An **interactive, end-to-end business intelligence dashboard** built with **Streamlit, Plotly, Prophet, and Machine Learning techniques**.  
 This project simulates a **real-world retail analytics system** that a data analyst or business intelligence engineer would deliver to stakeholders.  
 
@@ -116,7 +118,7 @@ Perfect for **Data Analyst / BI / Data Science portfolios**.
 ## 📦 Deployment  
 
 Deployed on **Streamlit Cloud**:  
-👉 [Live Demo Link](#) 
+👉 https://superstore-salesanalysis.streamlit.app/
 
 ---
 
