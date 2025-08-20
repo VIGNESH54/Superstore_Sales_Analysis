@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+openpyxl
+mlxtend
+networkx
+prophet ; extra index-url may be needed on some systems
