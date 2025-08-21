@@ -82,13 +82,16 @@ You can replace the default dataset with your own retail sales data.
 ## 📸 Screenshots  
 
 ### 🔹 Dashboard Overview  
-*(insert screenshot here)*  
+<img width="2940" height="1598" alt="image" src="https://github.com/user-attachments/assets/337cdffd-d2fc-4e7c-8f93-7ea43ded746f" />
+  
 
 ### 🔹 Forecasting (Prophet)  
-*(insert screenshot here)*  
+<img width="2254" height="1392" alt="image" src="https://github.com/user-attachments/assets/86c431d6-b292-426c-abda-64b2ae6d040b" />
+
 
 ### 🔹 Geo Analysis  
-*(insert screenshot here)*  
+<img width="2404" height="1514" alt="image" src="https://github.com/user-attachments/assets/45821e8e-5f92-48c8-b380-8ebf67331f80" />
+
 
 ---
 
